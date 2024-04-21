@@ -1,0 +1,506 @@
+,University,Attractiveness,State,Population
+0,Pepperdine University,89.7,California,10030
+1,Villanova University,87.8,Pennsylvania,9800
+2,Vanderbilt University,87.5,Tennessee,13710
+3,Texas Christian University,87.2,Texas,12785
+4,Southern Methodist University,87.0,Texas,12053
+5,"Arizona State University, Main Campus",86.7,Arizona,57588
+6,"Miami University, Oxford",86.1,Ohio,19752
+7,University of Mississippi Main Campus,85.6,Mississippi,24710
+8,Coastal Carolina University,85.6,South Carolina,10484
+9,"University of California, Santa Barbara",85.5,California,26179
+10,Rollins College,85.4,Florida,3127
+11,University of Southern California,85.0,California,49318
+12,University of Arizona,84.6,Arizona,53187
+13,San Diego State University,84.1,California,37539
+14,Florida State University,83.9,Florida,45493
+15,University of Colorado at Boulder,83.3,Colorado,37153
+16,University of Miami,83.3,Florida,19593
+17,Mississippi State University,83.3,Mississippi,22649
+18,Elon University,83.3,North Carolina,7117
+19,Bucknell University,83.3,Pennsylvania,4121
+20,University of Florida,82.6,Florida,55211
+21,University of Georgia,82.4,Georgia,40118
+22,University of North Carolina at Chapel Hill,82.1,North Carolina,31705
+23,"University of North Carolina, Wilmington",82.1,North Carolina,18030
+24,Washington State University,82.1,Washington,31471
+25,Loyola Marymount University,81.9,California,10004
+26,College of Charleston,81.8,South Carolina,10969
+27,Auburn University Main Campus,81.4,Alabama,33015
+28,Florida International University,81.3,Florida,55687
+29,"California State University, San Marcos",81.3,California,13469
+30,Monmouth University,81.0,New Jersey,6167
+31,Florida A&M University (Agricultural & Mechanical),80.6,Florida,10028
+32,Abilene Christian University,80.6,Texas,6219
+33,Saint Olaf College,80.3,Minnesota,3352
+34,Wake Forest University,80.3,North Carolina,8963
+35,University of Delaware,79.8,Delaware,24221
+36,Texas Tech University,79.6,Texas,40944
+37,"California State University, Chico",79.4,California,16630
+38,Hope College,79.2,Michigan,3445
+39,University of Alabama,78.9,Alabama,38320
+40,"California State University, Long Beach",78.8,California,38273
+41,Gustavus Adolphus College,78.8,Minnesota,2450
+42,University of Tennessee,78.8,Tennessee,36304
+43,James Madison University,78.7,Virginia,22224
+44,"Oklahoma State University, Main Campus",78.6,Oklahoma,25359
+45,"Indiana University, Bloomington",78.3,Indiana,47527
+46,University of Texas at Austin,78.0,Texas,52384
+47,Utah Valley State College,77.8,Utah,44653
+48,University of Hawaii at Manoa,77.6,Hawaii,19098
+49,Brigham Young University,77.5,Utah,34390
+50,Louisiana State Univ and Ag and Mech College,77.2,Louisiana,0
+51,Gannon University,77.1,N/A,0
+52,Hampton University,77.1,Virginia,3516
+53,Hofstra University,76.9,New York,10444
+54,Baylor University,76.9,Texas,20824
+55,Clemson University,76.5,South Carolina,28747
+56,East Carolina University,76.5,North Carolina,28021
+57,University of Kentucky,76.3,Kentucky,33885
+58,Towson University,76.2,Maryland,22294
+59,Fordham University,76.2,New York,16986
+60,University of Central Florida,76.1,Florida,69320
+61,"California Polytechnic State Univ, San Luis Obispo",76.1,California,0
+62,"Brigham Young University, Idaho",76.0,Idaho,41563
+63,Michigan State University,76.0,Michigan,51316
+64,University of Oregon,75.4,Oregon,23202
+65,Dickinson College,75.3,Pennsylvania,2662
+66,"Pennsylvania State University, Penn State Main Campus",75.3,Pennsylvania,89816
+67,"University of Virginia, Main Campus",75.2,Virginia,25944
+68,Idaho State University,75.0,Idaho,12301
+69,University of Louisiana at Lafayette,75.0,Louisiana,15345
+70,Boston College,75.0,Massachusetts,15106
+71,College of the Holy Cross,75.0,Massachusetts,3540
+72,Utah State University,75.0,Utah,28063
+73,Randolph-Macon College,75.0,Virginia,1697
+74,"University of Minnesota, Twin Cities",74.3,Minnesota,54890
+75,Wellesley College,74.2,Massachusetts,2508
+76,University of Kansas Main Campus,74.2,Kansas,26708
+77,"Ohio University, Main Campus",74.2,Ohio,18502
+78,Macalester College,74.1,Minnesota,2391
+79,Lewis & Clark College,74.1,Oregon,3509
+80,Lehigh University,74.0,Pennsylvania,6953
+81,Wheaton College,73.8,N/A,0
+82,Keene State College,73.8,New Hampshire,3104
+83,Malone College,73.8,N/A,0
+84,Washington and Lee University,73.8,Washington,2223
+85,"University of California, Los Angeles",73.8,California,47518
+86,University of Utah,73.7,Utah,34705
+87,"Bowling Green State University, Main Campus",73.7,Ohio,20395
+88,West Virginia University,73.6,Virginia,29933
+89,Quinnipiac University,73.1,Connecticut,9744
+90,Western Kentucky University,73.1,Kentucky,16495
+91,University of Oklahoma Norman Campus,73.0,Oklahoma,0
+92,Harding University,72.9,Arkansas,4879
+93,Morehead State University,72.9,Kentucky,8619
+94,Southeastern Louisiana University,72.9,Louisiana,14298
+95,Lafayette College,72.9,Pennsylvania,3001
+96,Middlebury College,72.9,Vermont,3050
+97,Bard College,72.7,New York,2272
+98,Biola University,72.2,California,3955
+99,Appalachian State University,72.2,North Carolina,21253
+100,"University of Missouri, Columbia",72.1,Missouri,31041
+101,Virginia Polytechnic Institute and State Univ,71.9,Virginia,0
+102,Susquehanna University,71.7,Pennsylvania,2462
+103,Boston University,71.5,Massachusetts,36729
+104,University of Nebraska at Omaha,71.4,Nebraska,15526
+105,State University of New York at Purchase,71.4,New York,3695
+106,Union College,71.4,New York,2420
+107,Belmont University,71.4,Tennessee,8910
+108,"Texas A & M University, Corpus Christi",71.4,Texas,72982
+109,"Texas State University, San Marcos",71.4,Texas,38873
+110,Carthage College,71.4,Wisconsin,2667
+111,Oregon State University,71.3,Oregon,37121
+112,"University of South Carolina, Columbia",71.2,South Carolina,35364
+113,"University of Wisconsin, Madison",71.2,Wisconsin,49886
+114,Florida Gulf Coast University,71.2,Florida,15373
+115,Santa Clara University,71.1,California,9178
+116,Stetson University,70.8,Florida,4330
+117,Mississippi College,70.8,Mississippi,6322
+118,"University of Montana, Missoula",70.8,Montana,10962
+119,University of Iowa,70.6,Iowa,30015
+120,Yale University,70.4,Connecticut,14806
+121,University of Arkansas Main Campus,70.4,Arkansas,32140
+122,Bellarmine University,70.4,Kentucky,3973
+123,Texas A & M University,70.3,Texas,72982
+124,Northeastern University,70.3,Massachusetts,36806
+125,Central Michigan University,70.3,Michigan,14594
+126,Jacksonville State University,70.2,Alabama,9540
+127,Radford University,70.2,Virginia,10700
+128,Western Washington University,70.2,Washington,14747
+129,"California State University, Fullerton",70.2,California,41408
+130,University of South Florida,70.2,Florida,48732
+131,"Southern Illinois University, Edwardsville",70.0,Illinois,12045
+132,Tulane University of Louisiana,69.9,Louisiana,14062
+133,George Mason University,69.8,Virginia,40185
+134,Saint Leo University,69.7,Florida,9523
+135,University of West Florida,69.4,Florida,13043
+136,The College of New Jersey,69.4,New Jersey,7340
+137,University of Denver,69.0,Colorado,13735
+138,Saint Mary's College,69.0,N/A,0
+139,Smith College,69.0,Massachusetts,2873
+140,Suffolk University,69.0,Massachusetts,7560
+141,Rider University,69.0,New Jersey,3693
+142,John Carroll University,69.0,Ohio,3673
+143,University of South Dakota,69.0,South Dakota,9971
+144,Seattle University,69.0,Washington,7050
+145,Illinois State University,68.9,Illinois,20989
+146,"University of Washington, Seattle Campus",68.8,Washington,49025
+147,Southwest Missouri State University,68.6,Missouri,23418
+148,University of Central Arkansas,68.5,Arkansas,11487
+149,Gordon College,68.5,N/A,0
+150,North Carolina A&T State University,68.5,North Carolina,13560
+151,Hendrix College,68.3,Arkansas,1120
+152,"Florida Atlantic University, Boca Raton",68.3,Florida,30171
+153,Saint Cloud State University,68.3,Minnesota,10401
+154,Metropolitan State College of Denver,68.2,Colorado,17979
+155,"Southern Illinois University, Carbondale",68.1,Illinois,18107
+156,"Ohio State University, Main Campus",68.0,Ohio,60046
+157,Grand Valley State University,67.9,Michigan,24406
+158,University of Southern Mississippi,67.9,Mississippi,14606
+159,Ithaca College,67.9,New York,6266
+160,State University of New York at Geneseo,67.8,New York,4910
+161,Marshall University,67.6,West Virginia,10835
+162,"University of Maryland, College Park",67.4,Maryland,41200
+163,New York University,67.0,New York,51848
+164,University of Illinois at Urbana-Champaign,66.9,Illinois,56403
+165,Alabama A & M University,66.7,Alabama,6001
+166,University of Alabama in Huntsville,66.7,Alabama,10000
+167,"Troy State University, Main Campus",66.7,Alabama,18086
+168,Chapman University,66.7,California,10001
+169,Valdosta State University,66.7,Georgia,12416
+170,Murray State University,66.7,Kentucky,9489
+171,Louisiana Tech University,66.7,Louisiana,11084
+172,University of New Orleans,66.7,Louisiana,7111
+173,Calvin College,66.7,Michigan,3256
+174,"University of Minnesota, Duluth",66.7,Minnesota,9350
+175,Lindenwood University,66.7,Missouri,6992
+176,Truman State University,66.7,Missouri,3636
+177,Northwest Missouri State University,66.7,Missouri,8505
+178,"Saint Louis University, Main Campus",66.7,N/A,0
+179,"University of New Hampshire, Main Campus",66.7,New Hampshire,14784
+180,"Rutgers University, New Brunswick",66.7,New Jersey,68942
+181,Colgate University,66.7,New York,3540
+182,Saint Bonaventure University,66.7,New York,2043
+183,"University of North Dakota, Main Campus",66.7,North Dakota,13876
+184,University of Dayton,66.7,Ohio,9154
+185,University of Toledo,66.7,Ohio,15621
+186,Northeastern State University,66.7,Oklahoma,8548
+187,"Indiana University of Pennsylvania, Main Campus",66.7,Indiana,9308
+188,Pacific Lutheran University,66.7,Washington,270
+189,"University of Wisconsin, La Crosse",66.7,Wisconsin,10500
+190,City College,66.7,N/A,0
+191,"University of Pittsburgh, Main Campus",66.4,Pennsylvania,29533
+192,Duke University,66.1,North Carolina,16780
+193,Kansas State University,65.8,Kansas,19745
+194,Liberty University,65.8,Virginia,96709
+195,"California State University, Sacramento",65.6,California,31451
+196,University of Connecticut,65.6,Connecticut,32669
+197,Georgetown University,65.6,District of Columbia,19005
+198,Eastern Illinois University,65.6,Illinois,8804
+199,West Texas A & M University,65.6,Texas,10051
+200,"University of California, Davis",65.5,California,40850
+201,University of Nebraska at Lincoln,65.5,Nebraska,24431
+202,Syracuse University,65.5,New York,22698
+203,University of Pennsylvania,65.3,Pennsylvania,23374
+204,Western Illinois University,65.2,Illinois,7073
+205,University of Northern Colorado,65.0,Colorado,9881
+206,Mount Holyoke College,65.0,Massachusetts,2342
+207,Duquesne University,65.0,Pennsylvania,9344
+208,Trinity University,64.8,N/A,0
+209,Emory University,64.7,Georgia,15909
+210,"Palm Beach Atlantic University, West Palm Beach",64.6,Florida,3829
+211,Eastern Kentucky University,64.6,Kentucky,14465
+212,Dallas Baptist University,64.6,Texas,4247
+213,"Kent State University, Main Campus",64.5,Ohio,25630
+214,Western Michigan University,64.4,Michigan,16643
+215,Monmouth College,64.3,Illinois,767
+216,Niagara University,64.3,New York,3763
+217,Allegheny College,64.3,Pennsylvania,1442
+218,Delaware Valley College,64.3,Delaware,1870
+219,Philadelphia University,64.3,Pennsylvania,7831
+220,"University of Nevada, Las Vegas",64.1,Nevada,31142
+221,Central Washington University,64.1,Washington,12342
+222,Albany State University,63.9,Georgia,6228
+223,Ball State University,63.9,Indiana,21597
+224,West Chester University of Pennsylvania,63.9,Pennsylvania,16183
+225,Whitman College,63.9,Washington,1642
+226,State University of New York at Oswego,63.6,New York,7636
+227,Columbia University in the City of New York,63.6,New York,34782
+228,University of North Florida,63.5,Florida,17043
+229,Sam Houston State University,63.5,Texas,21679
+230,"California State University, Northridge",63.5,California,38551
+231,University of North Texas,63.4,Texas,46940
+232,Sonoma State University,63.1,California,7807
+233,Kennesaw State University,63.1,Georgia,45152
+234,"University of Michigan, Ann Arbor",63.1,Michigan,52065
+235,Florida Southern College,63.0,Florida,3074
+236,Columbia College Chicago,63.0,Illinois,5928
+237,Dartmouth College,63.0,New Hampshire,6746
+238,Rowan University,63.0,New Jersey,23000
+239,North Carolina State University at Raleigh,63.0,North Carolina,37873
+240,Lamar University,63.0,Texas,17044
+241,Colorado State University,62.7,Colorado,27956
+242,George Washington University,62.5,Washington,26457
+243,Luther College,62.5,N/A,0
+244,Central Missouri State University,62.5,Missouri,9959
+245,City University of New York Brooklyn,62.5,New York,0
+246,Messiah College,62.5,Pennsylvania,2744
+247,"Purdue University, Main Campus",62.5,Indiana,52211
+248,Bloomsburg University of Pennsylvania,62.2,Pennsylvania,748
+249,Indiana State University,62.1,Indiana,8305
+250,Tarleton State University,62.0,Texas,15000
+251,"Minnesota State Unversity, Mankato",61.9,Minnesota,0
+252,Southwestern University,61.9,Texas,1666
+253,Longwood University,61.9,Virginia,5096
+254,University of Maine,61.8,Maine,11561
+255,University of Louisville,61.7,Kentucky,23043
+256,Weber State University,61.7,Utah,29914
+257,Marquette University,61.7,Wisconsin,11200
+258,"University of Wisconsin, Stevens Point",61.5,Wisconsin,7725
+259,Georgia State University,61.1,Georgia,50521
+260,University of Idaho,61.1,Idaho,11849
+261,"Loyola University, Chicago",61.1,Illinois,17159
+262,McDaniel College,61.1,Maryland,1629
+263,Vassar College,61.1,N/A,0
+264,Wittenberg University,61.1,Ohio,1458
+265,Clarion University of Pennsylvania,61.1,Pennsylvania,4763
+266,Lawrence University,60.7,Wisconsin,1555
+267,Stanford University,60.7,California,17529
+268,"University of California, Irvine",60.6,California,36505
+269,American University,60.5,District of Columbia,13019
+270,Earlham College,60.4,Indiana,677
+271,Millersville University of Pennsylvania,60.4,Pennsylvania,7150
+272,Whitworth College,60.4,Washington,2814
+273,Brown University,60.4,Rhode Island,10737
+274,San Jose State University,60.3,California,36062
+275,"New Mexico State University, Main Campus",60.3,New Mexico,21694
+276,Adelphi University,60.3,New York,7859
+277,State University of New York at New Paltz,60.3,New York,7489
+278,Eastern Michigan University,60.1,Michigan,13352
+279,Flagler College,60.0,Florida,2574
+280,Portland State University,60.0,Oregon,26012
+281,Christopher Newport University,60.0,Virginia,4503
+282,Princeton University,59.8,New Jersey,8478
+283,"University of Houston, University Park",59.8,Texas,46676
+284,Bradley University,59.7,Illinois,5099
+285,New College of California,59.5,California,0
+286,University of San Francisco,59.5,California,10636
+287,Augusta State University,59.5,Georgia,6919
+288,Illinois Wesleyan University,59.5,Illinois,1679
+289,Fort Hays State University,59.5,Kansas,12843
+290,Hampshire College,59.5,Massachusetts,558
+291,Westfield State College,59.5,Massachusetts,5396
+292,City University of New York Hunter,59.5,New York,0
+293,University of North Carolina at Charlotte,59.5,North Carolina,29551
+294,"University of South Carolina, Aiken",59.5,South Carolina,3840
+295,"University of Houston, Downtown",59.5,Texas,15077
+296,Gonzaga University,59.5,Washington,7295
+297,"University of Wisconsin, Green Bay",59.5,Wisconsin,9870
+298,Pomona College,59.3,California,1859
+299,Boise State University,59.3,Idaho,26155
+300,State University of New York at Plattsburgh,59.3,New York,5257
+301,Ohio Northern University,59.3,Ohio,3088
+302,"Pace University, New York",59.1,New York,13312
+303,"University of Wisconsin, Eau Claire",59.1,Wisconsin,10064
+304,Northern Illinois University,59.0,Illinois,15649
+305,University of Texas at San Antonio,58.8,Texas,34742
+306,"University of Massachusetts, Amherst",58.7,Massachusetts,27420
+307,"University of California, Santa Cruz",58.7,California,19161
+308,Iowa State University,58.5,Iowa,30177
+309,Northern Arizona University,58.3,Arizona,28194
+310,California Lutheran University,58.3,California,3176
+311,"University of California, Riverside",58.3,California,26809
+312,National University,58.3,N/A,0
+313,DePaul University,58.3,Illinois,22437
+314,Olivet Nazarene University,58.3,Illinois,3255
+315,Centre College,58.3,Kentucky,1573
+316,"Montana State University, Bozeman",58.3,Montana,16688
+317,Seton Hall University,58.3,New Jersey,9529
+318,State University of New York at Albany,58.3,New York,16648
+319,University of North Carolina at Greensboro,58.3,North Carolina,19764
+320,University of Akron Main Campus,58.3,Ohio,11306
+321,Baldwin-Wallace College,58.3,Ohio,2851
+322,University of Rhode Island,58.3,Rhode Island,18061
+323,Furman University,58.3,South Carolina,2687
+324,"California State University, Monterey Bay",58.3,California,6871
+325,University of Alabama at Birmingham,57.9,Alabama,22563
+326,"Indiana University - Purdue University, Indianapolis",57.8,Indiana,0
+327,Franklin and Marshall College,57.7,Pennsylvania,2189
+328,Georgia Southern University,57.6,Georgia,26949
+329,University of Northern Iowa,57.6,Iowa,9021
+330,Saint Johns University,57.6,N/A,0
+331,"University of Cincinnati, Main Campus",57.6,Ohio,50921
+332,"University of Wisconsin, Whitewater",57.6,Wisconsin,10726
+333,University of South Alabama,57.4,Alabama,13463
+334,"University of Wisconsin, Milwaukee",57.2,Wisconsin,24725
+335,"California State University, Bakersfield",57.1,California,11264
+336,"Taylor University, Upland",57.1,Indiana,2221
+337,"Louisiana State University, Shreveport",57.1,Louisiana,8518
+338,Missouri Southern State University,57.1,Missouri,4087
+339,Pacific University,57.1,Oregon,3559
+340,Southern Oregon University,57.1,Oregon,6114
+341,Eastern Washington University,57.0,Washington,10915
+342,Wayne State University,56.9,Michigan,24931
+343,Northeastern Illinois University,56.7,Illinois,5504
+344,Cornell University,56.5,New York,26284
+345,"Wright State University, Main Campus",56.4,Ohio,10264
+346,Mary Washington College,56.4,Washington,4108
+347,Middle Tennessee State University,56.3,Tennessee,20086
+348,University of Colorado at Denver,56.3,Colorado,17099
+349,Northern Michigan University,56.3,Michigan,6764
+350,Southeast Missouri State University,56.3,Missouri,9677
+351,University of Texas at Arlington,56.1,Texas,40990
+352,State University of New York at Stony Brook,56.0,New York,25710
+353,Valparaiso University,56.0,Indiana,2868
+354,University of Memphis,55.9,Tennessee,21916
+355,Drake University,55.6,Iowa,4774
+356,"University of Missouri, St Louis",55.6,Missouri,31041
+357,City University of New York Bernard M Baruch,55.6,New York,0
+358,Reed College,55.6,Oregon,1534
+359,Shenandoah University,55.6,Virginia,2493
+360,Kaplan College,55.6,N/A,0
+361,State University of New York at Buffalo,55.4,New York,32347
+362,Humboldt State University,55.3,California,5976
+363,"California State University, San Bernardino",55.2,California,19182
+364,University of Illinois at Chicago,55.2,Illinois,33747
+365,University of Rochester,55.2,New York,12160
+366,Ferris State University,55.0,Michigan,10361
+367,Saginaw Valley State University,55.0,Michigan,8535
+368,San Francisco State University,54.8,California,23700
+369,"Indiana University - Purdue University, Fort Wayne",54.8,Indiana,0
+370,University of Southern Indiana,54.8,Indiana,7361
+371,Wentworth Institute of Technology,54.8,Massachusetts,5033
+372,Montclair State University,54.8,New Jersey,21115
+373,University of The Arts,54.8,N/A,0
+374,Oakland University,54.5,Michigan,20012
+375,Miami Dade College,54.2,Florida,47245
+376,"University of Pittsburgh, Johnstown",54.2,Pennsylvania,2462
+377,University of Texas at El Paso,54.2,Texas,25151
+378,University of Wyoming,54.2,Wyoming,11100
+379,Virginia Commonwealth University,54.0,Virginia,28919
+380,Northwestern University,53.8,Illinois,23410
+381,"University of New Mexico, Main Campus",53.8,New Mexico,25441
+382,"California State University, Los Angeles",53.7,California,26342
+383,Bridgewater State College,53.7,Massachusetts,10651
+384,"Rutgers University, Camden",53.7,New Jersey,6158
+385,Wesleyan University,53.3,Connecticut,3053
+386,Rhode Island College,53.3,Rhode Island,7523
+387,Clark University,53.0,Massachusetts,3801
+388,Juniata College,53.0,Pennsylvania,1730
+389,Temple University,53.0,Pennsylvania,37365
+390,"University of California, Berkeley",52.7,California,45307
+391,Barry University,52.4,Florida,7401
+392,Stonehill College,52.4,Massachusetts,2750
+393,Roberts Wesleyan College,52.4,New York,1621
+394,Grove City College,52.4,Pennsylvania,2640
+395,City University,52.4,N/A,0
+396,Washington University in St Louis,52.2,Washington,16244
+397,"University of Michigan, Dearborn",52.1,Michigan,8224
+398,University of Central Oklahoma,52.1,Oklahoma,13842
+399,University of Scranton,52.1,Pennsylvania,5422
+400,Harvard University,51.9,Massachusetts,21613
+401,Central Connecticut State University,51.9,Connecticut,9653
+402,Park University,51.9,Missouri,6389
+403,Mary Baldwin College,51.9,Virginia,1761
+404,"California State University, Hayward",51.7,California,13843
+405,"University of Wisconsin, Parkside",51.7,Wisconsin,3966
+406,Berea College,51.5,Kentucky,1599
+407,Northern Kentucky University,51.5,Kentucky,15827
+408,City University of New York Queens,51.5,New York,0
+409,Austin Peay State University,51.5,Tennessee,8932
+410,Alaska Pacific University,50.0,Alaska,595
+411,"California State Polytechnic University, Pomona",50.0,California,29704
+412,Regis University,50.0,Colorado,6908
+413,Southern Connecticut State University,50.0,Connecticut,8155
+414,St John's College,50.0,N/A,0
+415,Amherst College,50.0,Massachusetts,2168
+416,Spring Arbor University,50.0,Michigan,1518
+417,"Minnesota State University, Moorhead",50.0,Minnesota,7534
+418,"Rutgers University, Newark",50.0,New Jersey,12321
+419,State University of New York at Binghamton,50.0,New York,18148
+420,United States Military Academy,50.0,New York,4294
+421,Jamestown College,50.0,North Dakota,129
+422,Bryn Mawr College,50.0,Pennsylvania,1719
+423,"University of Houston, Clear Lake",50.0,Texas,8961
+424,University of Vermont and State Agricultural Coll,50.0,Vermont,0
+425,Old Dominion University,50.0,Virginia,23494
+426,"University of Wisconsin, Oshkosh",50.0,Wisconsin,16410
+427,"University of Washington, Tacoma Campus",50.0,Washington,49025
+428,University of Notre Dame,49.3,Indiana,12809
+429,State University of New York at Buffalo,48.7,New York,32347
+430,"University of California, San Diego",48.6,California,43381
+431,"University of Missouri, Kansas City",48.6,Kansas,16156
+432,University of Alaska Fairbanks,48.5,Alaska,6813
+433,Youngstown State University,48.5,Ohio,11298
+434,"University of Nevada, Reno",48.3,Nevada,20718
+435,Tufts University,48.2,Massachusetts,12648
+436,Drexel University,48.2,Pennsylvania,24205
+437,"Davenport University, Grand Rapids Campus",48.1,Michigan,7232
+438,College of Wooster,48.1,Ohio,2200
+439,University of Puget Sound,48.1,Washington,2023
+440,University of Maryland University College,47.8,Maryland,51978
+441,Williams College,47.6,Massachusetts,2171
+442,South Dakota State University,47.6,South Dakota,11465
+443,University of Alaska Anchorage,47.2,Alaska,10464
+444,"University of Maryland, Baltimore County",47.2,Maryland,13602
+445,Babson College,47.0,Massachusetts,4000
+446,Grinnell College,46.3,Iowa,1759
+447,"University of Massachusetts, Dartmouth",46.3,Massachusetts,8513
+448,Oberlin College,46.3,Ohio,2785
+449,Johnson & Wales University,46.3,N/A,0
+450,Carleton College,45.8,Minnesota,2315
+451,Illinois Institute of Technology,45.6,Illinois,6943
+452,Michigan Technological University,45.3,Michigan,7009
+453,Indiana Institute of Technology,45.2,Indiana,9652
+454,Lebanon Valley College,45.2,Pennsylvania,1915
+455,Baker College of Auburn Hills,45.2,N/A,0
+456,Brandeis University,45.0,Massachusetts,5581
+457,Wichita State University,44.9,Kansas,17548
+458,David Lipscomb University,44.4,Tennessee,4704
+459,City University of New York of Staten Island,43.9,New York,0
+460,Oral Roberts University,43.9,Oklahoma,5051
+461,University of Texas at Dallas,43.8,Texas,30885
+462,United States Naval Academy,43.3,Maryland,4576
+463,Rice University,43.3,Texas,8212
+464,College of William and Mary,43.2,Virginia,9517
+465,"California State University, Fresno",42.9,California,25341
+466,University of Baltimore,42.9,Maryland,1481
+467,Lake Superior State University,42.6,Michigan,2637
+468,Cleveland State University,42.6,Ohio,14118
+469,Johns Hopkins University,41.9,Maryland,30549
+470,Massachusetts Institute of Technology (MIT),40.8,Massachusetts,11858
+471,"Devry University, Arizona",40.7,Arizona,27867
+472,University of Southern Maine,40.7,Maine,7996
+473,State University of New York of Technology at Canton,40.5,New York,0
+474,"North Dakota State University, Main Campus",40.5,North Dakota,12242
+475,Western Oregon University,40.5,Oregon,3746
+476,Carnegie Mellon University,40.1,Pennsylvania,16335
+477,"Georgia Institute of Technology, Main Campus",38.6,Georgia,47961
+478,Bowdoin College,38.1,Maine,2035
+479,University of Chicago,37.2,Illinois,18452
+480,Swarthmore College,36.9,Pennsylvania,1868
+481,California Institute of Technology,36.0,California,2397
+482,Harvey Mudd College,35.7,California,995
+483,"University of Michigan, Flint",35.7,Michigan,6418
+484,Kenyon College,35.7,Ohio,2064
+485,Linfield College,35.7,Oregon,1755
+486,Fitchburg State College,35.4,Massachusetts,4659
+487,Rochester Institute of Technology,35.1,New York,20570
+488,Stevens Institute of Technology,35.0,New Jersey,8287
+489,Evergreen State College,35.0,Washington,2116
+490,United States Air Force Academy,34.8,Colorado,4304
+491,Rensselaer Polytechnic Institute,34.7,New York,8142
+492,Case Western Reserve University,34.1,Ohio,12266
+493,"Embry Riddle Aeronautical University, Daytona Beach",33.3,Florida,30948
+494,"Devry University, Ohio",33.3,Ohio,27867
+495,Virginia Military Institute,33.3,Virginia,1685
+496,New Mexico Institute of Mining and Technology,31.3,New Mexico,1368
+497,New Jersey Institute of Technology,30.6,New Jersey,12332
+498,Dean College,29.8,Massachusetts,1320
+499,Lawrence Technological University,29.2,Michigan,3154
+500,Worcester Polytechnic Institute,28.2,Massachusetts,5770
+501,"University of Missouri, Rolla",27.5,Missouri,6456
+502,Polytechnic University,26.7,N/A,0
+503,Rose-Hulman Institute of Technology,26.4,Indiana,2385
+504,Clarkson University,24.1,New York,4600
